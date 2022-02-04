@@ -69,4 +69,20 @@ Ex.: Y(x) = Teta1 + teta2*x + teta3 * x**2 + teta4 * x**5 + tetan * x**n
     8.7 defina a forma de mensuração do erro (ex.: RMSE)
     8.8 mensure o erro entre Y_pred e y_test para saber se o modelo escolhido é adequado. Quanto menor o erro, melhor.
     
+9. Validação Cruzada é importante para evitar de termos separação de eventos fáceis de predizer para treinar nosso modelo. COm o método vamos ter uma estimativa 
+melhor que reduz a variância do modelo.
 
+10. Diferença entre Parâmetro e hiperparâmetro = parâmetro é ajustado pelo algoritmo no modelo a partir dos dados. Hiperparâmetro é setado pelo
+humano
+
+11. É comum no mercado usar o ten-fold cross validation (K=10)
+
+12. Acurácia do ten-fold pode ser entendida quantos % dos dados foi acertado.
+
+13. Lembrar de usar np.random.seed(42) para garantir reprodutividade do experimento no computador de outras pessoas e até mesmo no mesmo precisa
+em outro momento. Lembrando que todas bibliotecas tem um random seed e o dito anterior é para o np. Portante se estamos usando diversas bibliotecas,
+temos que setar diversas seeds. O numero entre () pode ser qqr um, mas a comunidade de python usa o 42 em homenagem geek a um filme kkk.
+
+14. Importante usar shuffle=True no train_test_split para que a base de dados seja misturada antes de criar a separação. O importante,
+pois base de dados podem ser construídas seguindo uma ordem que atrapalha uma análise não enviesada. A exceção é timeseries que tem uma ordem
+realmente bem definida (no caso a data). 

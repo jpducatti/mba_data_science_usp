@@ -1,0 +1,15 @@
+# DÚVIDAS
+
+1. Método hold-out pode ser utilizado para modelo LinearRegression?
+-> Sim, absolutamente normal fazer isso.
+
+2. É possível ter valores de acurácia (-) no método de hold-out (cv['test_score'])?
+-> Sempre positiva. Portanto, fiz errado
+
+3. Resultado pelo método de Cross Validação e Overfitting gera o mesmo resultado?
+->  Sim, é para ter o mesmo resultado. Na prática, encontramos o melhor modelo através da Cross Validação e não graficamente.
+Como na prática (mercado) temos muito hiperparâmetros, fica inviável ou complicado graficar o erro (eg. rmse) dos modelos com cada hiperparâmetro.
+Portanto usa o Cross Validação para fazer esse papel e encontrar o melhro hiperparâmetro.
+
+4. A acurácia dada no notebook de cross validation seria de uma certa forma a avaliação do erro nos dados de treinamento?
+-> Não. Está mais para 
