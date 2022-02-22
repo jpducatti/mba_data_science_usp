@@ -1,0 +1,54 @@
+MEETUP DO NUBANK REALIZADO EM 22-02-2022
+
+DESCRIPTION: 
+Nick Huntington-Klein vai falar sobre como identificar uma relação de causalidade, e como não confundir causalidade com correlação; 
+e Sean Taylor vai nos trazer a relação da teoria com experimentos para estimar os efeitos causais.
+
+LINKS:
+http://www.dagitty.net/ (R)
+https://causalnex.readthedocs.io/en/latest/ (python) and https://medium.com/quantumblack/introducing-causalnex-driving-models-which-respect-cause-and-effect-a561545f0a5e
+https://theeffectbook.net/
+
+
+
+
+
+--------------------
+
+WHAT QUESTION - Many parts of DS and ml are focused to answering WHAT questions, looking for patterns present in data.
+
+WHY QUESTIONS - why questions are important because they dont just tell us what is in data, they tell us about ckunterfactuals and causality
+    why do sales tend to increase right after we advertise more?
+    why has our site traffic been declined?
+
+Often patterns in data do not answer WHY questions
+
+We cant just get a what and expect it to tell us a why - correlation is not causation
+
+Identification is the process to figure out which correlations are causal
+
+Test A/B is a type of identification experiment
+
+Adjust for seasonality is a form of identification - eg. in december we have more sales due to seasonality and remove this effect
+
+How identify if my waht is answering why:
+    when see a pattern at data, ask why that pattern might be there
+    trick part, find a part of the data where those alternate explanations dont apply (like in a experiment)
+
+So, do not rely only in data, we have to think about the source of the data (data generation process - DGP)
+
+Maping out DGP is just to ask: what variables are likely to be relevant  in causing my variables of interest
+
+Example of Causal Diagram to map out DGP --> Sales (why my recents sales raised?) --> month of year, ads, product launch, recent sales
+
+Making Reasonable Assumptions
+    The models will be always incomplete, ask if it is too wrong to use
+    Ask others about variables that can impact
+
+
+
+
+
+
+
+

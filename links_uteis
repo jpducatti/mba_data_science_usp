@@ -9,3 +9,10 @@ http://www.gaussianprocess.org/gpml/chapters/RW.pdf
 
 TODOS OS PACOTES DO ANACONDA
 https://docs.anaconda.com/anaconda/packages/py3.6_osx-64/
+
+QUANDO USAR MinMaxSCALER (NORMALIZACAO), STANDARD SCALER (PADRONIZACAO)
+https://medium.com/@sunils0506/types-of-transformations-in-machine-learning-5e397a6c9ab4
+
+ANALISE DE Average Silhouette PARA KMEANS (ALTERNATIVA AO ELBOW METHOD)
+https://medium.com/neuronio-br/aprendizado-n%C3%A3o-supervisionado-com-k-means-f4272dee98a0
+
