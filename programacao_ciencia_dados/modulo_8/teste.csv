@@ -1,0 +1,806 @@
+Country,Item Type,Units Sold
+Afghanistan,Baby Food,80
+Afghanistan,Cereal,10367
+Afghanistan,Clothes,5771
+Afghanistan,Fruits,6433
+Albania,Baby Food,9013
+Albania,Beverages,8775
+Albania,Clothes,8661
+Albania,Fruits,2104
+Albania,Office Supplies,6892
+Albania,Vegetables,9986
+Algeria,Baby Food,3175
+Algeria,Meat,9191
+Algeria,Office Supplies,5696
+Algeria,Personal Care,9681
+Algeria,Vegetables,7036
+Andorra,Baby Food,14696
+Andorra,Beverages,600
+Andorra,Household,642
+Andorra,Meat,4355
+Andorra,Personal Care,9950
+Andorra,Vegetables,1905
+Angola,Beverages,698
+Angola,Cereal,4240
+Angola,Cosmetics,6874
+Angola,Household,13978
+Angola,Meat,2016
+Angola,Personal Care,6548
+Angola,Snacks,6591
+Antigua and Barbuda ,Cereal,3782
+Antigua and Barbuda ,Clothes,3251
+Antigua and Barbuda ,Office Supplies,6197
+Antigua and Barbuda ,Vegetables,3127
+Armenia,Cereal,9528
+Armenia,Fruits,3872
+Armenia,Meat,8896
+Armenia,Personal Care,8299
+Armenia,Snacks,4668
+Australia,Cosmetics,2352
+Australia,Vegetables,14196
+Austria,Cereal,1443
+Austria,Household,6878
+Austria,Office Supplies,16645
+Austria,Vegetables,3030
+Azerbaijan,Office Supplies,6240
+Azerbaijan,Snacks,6524
+Azerbaijan,Vegetables,1619
+Bahrain,Baby Food,404
+Bahrain,Beverages,17337
+Bahrain,Fruits,23623
+Bahrain,Household,5990
+Bahrain,Office Supplies,5494
+Bahrain,Personal Care,3621
+Bangladesh,Baby Food,7632
+Bangladesh,Office Supplies,3570
+Bangladesh,Personal Care,12360
+Bangladesh,Snacks,3465
+Barbados,Cosmetics,4924
+Barbados,Personal Care,6848
+Barbados,Snacks,597
+Belarus,Baby Food,13095
+Belarus,Beverages,6846
+Belarus,Cereal,1060
+Belarus,Household,5594
+Belarus,Office Supplies,6426
+Belarus,Personal Care,2476
+Belarus,Snacks,7938
+Belarus,Vegetables,1691
+Belgium,Baby Food,4503
+Belgium,Beverages,4349
+Belgium,Cosmetics,9928
+Belgium,Fruits,9669
+Belgium,Meat,7726
+Belgium,Office Supplies,1345
+Belgium,Snacks,246
+Belize,Cosmetics,6296
+Belize,Household,3101
+Belize,Meat,9572
+Belize,Snacks,6397
+Benin,Cereal,9885
+Benin,Fruits,293
+Benin,Household,1297
+Benin,Meat,13372
+Benin,Office Supplies,760
+Bhutan,Beverages,9192
+Bhutan,Clothes,4829
+Bhutan,Meat,10274
+Bhutan,Office Supplies,9865
+Bhutan,Snacks,8283
+Bosnia and Herzegovina,Cosmetics,5372
+Bosnia and Herzegovina,Household,2321
+Bosnia and Herzegovina,Snacks,449
+Bosnia and Herzegovina,Vegetables,2539
+Botswana,Cereal,2302
+Botswana,Clothes,9097
+Botswana,Office Supplies,1983
+Brunei,Baby Food,8803
+Brunei,Beverages,3077
+Brunei,Clothes,2830
+Bulgaria,Baby Food,6035
+Bulgaria,Cereal,4247
+Bulgaria,Clothes,9285
+Bulgaria,Fruits,4884
+Bulgaria,Snacks,9312
+Bulgaria,Vegetables,3473
+Burkina Faso,Cosmetics,3284
+Burkina Faso,Household,1531
+Burkina Faso,Office Supplies,917
+Burkina Faso,Vegetables,4695
+Burundi,Baby Food,1698
+Burundi,Beverages,2057
+Burundi,Cosmetics,9036
+Burundi,Snacks,13277
+Burundi,Vegetables,3410
+Cambodia,Baby Food,264
+Cambodia,Cereal,5376
+Cambodia,Cosmetics,7383
+Cambodia,Snacks,1581
+Cameroon,Snacks,624
+Canada,Beverages,2252
+Canada,Vegetables,7265
+Cape Verde,Beverages,9794
+Cape Verde,Clothes,1117
+Cape Verde,Cosmetics,4423
+Cape Verde,Fruits,9800
+Cape Verde,Personal Care,25
+Cape Verde,Snacks,6653
+Central African Republic,Baby Food,7570
+Central African Republic,Cosmetics,8309
+Central African Republic,Household,9372
+Central African Republic,Office Supplies,2163
+Central African Republic,Snacks,4419
+Central African Republic,Vegetables,17396
+Chad,Baby Food,194
+Chad,Fruits,19514
+Chad,Meat,17193
+Chad,Office Supplies,15038
+China,Beverages,4811
+China,Cosmetics,8341
+China,Office Supplies,8128
+China,Personal Care,3901
+China,Vegetables,5100
+Comoros,Household,5738
+Comoros,Meat,8052
+Comoros,Personal Care,10330
+Comoros,Snacks,6056
+Costa Rica,Clothes,2158
+Costa Rica,Cosmetics,8724
+Costa Rica,Meat,8783
+Costa Rica,Office Supplies,18232
+Cote d'Ivoire,Cereal,6115
+Cote d'Ivoire,Clothes,8228
+Cote d'Ivoire,Personal Care,7196
+Cote d'Ivoire,Vegetables,15425
+Croatia,Beverages,1785
+Croatia,Snacks,5618
+Cuba,Beverages,5408
+Cuba,Cereal,6847
+Cuba,Clothes,15117
+Cuba,Cosmetics,5320
+Cuba,Household,13151
+Cuba,Meat,6057
+Cuba,Office Supplies,15403
+Cuba,Personal Care,6176
+Cyprus,Cereal,2975
+Cyprus,Cosmetics,3667
+Cyprus,Household,2191
+Cyprus,Snacks,11949
+Czech Republic,Baby Food,1353
+Czech Republic,Beverages,1578
+Czech Republic,Cereal,14401
+Czech Republic,Household,9902
+Czech Republic,Office Supplies,5668
+Czech Republic,Personal Care,6377
+Czech Republic,Snacks,9118
+Democratic Republic of the Congo,Baby Food,8049
+Democratic Republic of the Congo,Fruits,15054
+Democratic Republic of the Congo,Office Supplies,4732
+Democratic Republic of the Congo,Personal Care,8844
+Denmark,Beverages,5497
+Djibouti,Baby Food,14371
+Djibouti,Household,4676
+Djibouti,Snacks,7227
+Dominica,Snacks,1637
+Dominica,Vegetables,4105
+Dominican Republic,Cereal,1113
+Dominican Republic,Clothes,757
+Dominican Republic,Cosmetics,7047
+Dominican Republic,Household,7584
+Dominican Republic,Personal Care,6338
+Dominican Republic,Vegetables,7071
+East Timor,Beverages,10805
+East Timor,Cosmetics,8984
+East Timor,Fruits,6227
+East Timor,Snacks,7033
+East Timor,Vegetables,4637
+Egypt,Baby Food,2739
+Egypt,Beverages,8954
+Egypt,Meat,11728
+Egypt,Office Supplies,1765
+Egypt,Snacks,6045
+El Salvador,Clothes,9721
+El Salvador,Fruits,2278
+El Salvador,Meat,248
+El Salvador,Personal Care,6103
+Equatorial Guinea,Cereal,7151
+Equatorial Guinea,Clothes,5629
+Equatorial Guinea,Meat,1277
+Equatorial Guinea,Office Supplies,7875
+Eritrea,Cereal,3994
+Eritrea,Snacks,4279
+Estonia,Baby Food,271
+Estonia,Beverages,11860
+Estonia,Clothes,6463
+Estonia,Meat,1452
+Estonia,Office Supplies,8677
+Estonia,Vegetables,1764
+Ethiopia,Beverages,822
+Ethiopia,Household,2309
+Ethiopia,Office Supplies,2982
+Ethiopia,Personal Care,2964
+Ethiopia,Vegetables,5620
+Federated States of Micronesia,Personal Care,5005
+Federated States of Micronesia,Snacks,407
+Fiji,Beverages,4062
+Fiji,Cereal,8932
+Fiji,Clothes,7485
+Fiji,Cosmetics,1741
+Fiji,Personal Care,1824
+Fiji,Snacks,3241
+Fiji,Vegetables,4800
+Finland,Cosmetics,3596
+Finland,Household,9801
+Finland,Personal Care,6761
+Finland,Vegetables,6452
+France,Office Supplies,33
+France,Snacks,5516
+France,Vegetables,947
+Gabon,Baby Food,3791
+Gabon,Household,5798
+Gabon,Snacks,16439
+Georgia,Baby Food,288
+Georgia,Household,8765
+Georgia,Office Supplies,8180
+Georgia,Personal Care,323
+Georgia,Snacks,1109
+Georgia,Vegetables,4833
+Germany,Baby Food,9279
+Germany,Cereal,8335
+Germany,Household,6777
+Germany,Office Supplies,7391
+Germany,Personal Care,8879
+Ghana,Baby Food,3282
+Ghana,Cereal,1358
+Ghana,Household,15375
+Ghana,Meat,6552
+Ghana,Office Supplies,10921
+Greece,Baby Food,7937
+Greece,Household,3151
+Greece,Personal Care,11037
+Greece,Vegetables,6046
+Greenland,Baby Food,6296
+Greenland,Beverages,2880
+Greenland,Clothes,14147
+Greenland,Fruits,4709
+Greenland,Household,9302
+Greenland,Snacks,2643
+Grenada,Baby Food,508
+Grenada,Beverages,9759
+Grenada,Cereal,852
+Grenada,Meat,4334
+Grenada,Personal Care,4487
+Guatemala,Baby Food,13005
+Guatemala,Beverages,9614
+Guatemala,Fruits,1721
+Guatemala,Meat,6803
+Guatemala,Office Supplies,3131
+Guinea,Baby Food,8508
+Guinea,Meat,18309
+Guinea-Bissau,Cereal,2950
+Guinea-Bissau,Clothes,14942
+Guinea-Bissau,Office Supplies,3221
+Guinea-Bissau,Snacks,7913
+Guinea-Bissau,Vegetables,6283
+Haiti,Baby Food,8569
+Haiti,Beverages,9455
+Haiti,Snacks,2695
+Haiti,Vegetables,2761
+Honduras,Cereal,5409
+Honduras,Cosmetics,3295
+Honduras,Office Supplies,6884
+Honduras,Personal Care,3217
+Hungary,Cosmetics,6344
+Hungary,Household,5423
+Hungary,Snacks,8044
+Hungary,Vegetables,4223
+Iceland,Clothes,1251
+Iceland,Meat,2975
+Iceland,Office Supplies,6388
+Iceland,Personal Care,2149
+Iceland,Vegetables,365
+India,Cereal,5132
+India,Cosmetics,9924
+India,Fruits,8862
+India,Personal Care,15793
+Indonesia,Cosmetics,1237
+Indonesia,Personal Care,17515
+Iran,Baby Food,8099
+Iran,Cosmetics,9133
+Iran,Household,2315
+Iran,Meat,12623
+Iran,Office Supplies,8431
+Iran,Snacks,379
+Iran,Vegetables,1547
+Iraq,Beverages,1042
+Iraq,Clothes,5864
+Iraq,Office Supplies,6283
+Ireland,Beverages,9919
+Ireland,Clothes,799
+Ireland,Household,8006
+Ireland,Meat,7936
+Ireland,Office Supplies,7144
+Ireland,Vegetables,1052
+Israel,Baby Food,1616
+Israel,Beverages,4949
+Israel,Meat,5093
+Israel,Personal Care,5745
+Italy,Beverages,7206
+Italy,Cereal,6733
+Italy,Office Supplies,5263
+Italy,Personal Care,5494
+Italy,Snacks,7536
+Italy,Vegetables,8367
+Jamaica,Beverages,7163
+Jamaica,Fruits,7258
+Jamaica,Vegetables,2428
+Japan,Baby Food,9929
+Japan,Beverages,4203
+Japan,Cereal,3322
+Japan,Cosmetics,11480
+Japan,Meat,6569
+Japan,Personal Care,8269
+Jordan,Clothes,9092
+Jordan,Fruits,7325
+Jordan,Household,2445
+Jordan,Meat,4741
+Jordan,Office Supplies,7497
+Jordan,Vegetables,15437
+Kazakhstan,Baby Food,1578
+Kazakhstan,Beverages,6594
+Kenya,Beverages,897
+Kenya,Cereal,4368
+Kenya,Clothes,8611
+Kenya,Meat,3488
+Kenya,Office Supplies,8883
+Kiribati,Baby Food,8856
+Kiribati,Cereal,4641
+Kiribati,Clothes,5963
+Kiribati,Meat,2079
+Kosovo,Baby Food,3747
+Kuwait,Clothes,6436
+Kuwait,Meat,7110
+Kuwait,Snacks,13246
+Kyrgyzstan,Baby Food,573
+Kyrgyzstan,Beverages,1547
+Kyrgyzstan,Fruits,1287
+Kyrgyzstan,Vegetables,12337
+Laos,Beverages,12826
+Laos,Office Supplies,598
+Laos,Snacks,8054
+Latvia,Beverages,7497
+Latvia,Clothes,1925
+Lebanon,Beverages,6781
+Lebanon,Clothes,7445
+Lebanon,Household,9219
+Lebanon,Office Supplies,9306
+Lesotho,Baby Food,8012
+Lesotho,Beverages,8282
+Lesotho,Fruits,1689
+Lesotho,Office Supplies,6170
+Lesotho,Personal Care,16778
+Lesotho,Snacks,9872
+Liberia,Beverages,8491
+Liberia,Cereal,10779
+Liberia,Fruits,5777
+Liberia,Office Supplies,316
+Liberia,Snacks,9974
+Libya,Baby Food,7354
+Libya,Beverages,4550
+Libya,Cereal,1480
+Libya,Cosmetics,8446
+Libya,Vegetables,64
+Liechtenstein,Cereal,13978
+Liechtenstein,Household,6449
+Lithuania,Cereal,9113
+Lithuania,Fruits,10787
+Lithuania,Office Supplies,7353
+Lithuania,Vegetables,6923
+Luxembourg,Baby Food,16293
+Luxembourg,Cosmetics,1937
+Luxembourg,Household,9131
+Luxembourg,Meat,1093
+Luxembourg,Personal Care,2503
+Luxembourg,Vegetables,2969
+Macedonia,Beverages,4129
+Macedonia,Fruits,9199
+Macedonia,Office Supplies,2244
+Macedonia,Personal Care,8998
+Madagascar,Cereal,8983
+Madagascar,Clothes,9810
+Madagascar,Fruits,15130
+Malawi,Baby Food,5006
+Malawi,Beverages,12952
+Malawi,Cereal,6936
+Malawi,Cosmetics,5118
+Malawi,Household,6110
+Malawi,Vegetables,7025
+Malaysia,Baby Food,7350
+Malaysia,Beverages,848
+Malaysia,Cosmetics,5344
+Malaysia,Household,9765
+Malaysia,Office Supplies,5387
+Malaysia,Snacks,13962
+Maldives,Clothes,5844
+Maldives,Cosmetics,9764
+Maldives,Fruits,7332
+Maldives,Office Supplies,702
+Maldives,Personal Care,9180
+Maldives,Vegetables,9449
+Mali,Baby Food,9677
+Mali,Beverages,15514
+Mali,Cereal,8590
+Mali,Fruits,4188
+Mali,Meat,6844
+Mali,Vegetables,7712
+Malta,Cosmetics,8534
+Marshall Islands,Beverages,9588
+Marshall Islands,Cereal,3227
+Marshall Islands,Fruits,4638
+Marshall Islands,Personal Care,13630
+Marshall Islands,Snacks,1632
+Mauritania,Beverages,8581
+Mauritania,Meat,15213
+Mauritius ,Cereal,12330
+Mauritius ,Cosmetics,1659
+Mauritius ,Household,1646
+Mauritius ,Personal Care,15759
+Mexico,Baby Food,4168
+Mexico,Clothes,7237
+Moldova ,Baby Food,8600
+Moldova ,Cosmetics,9615
+Moldova ,Fruits,3039
+Moldova ,Meat,8510
+Moldova ,Personal Care,11675
+Monaco,Clothes,10616
+Monaco,Household,5308
+Monaco,Snacks,1057
+Monaco,Vegetables,4369
+Mongolia,Beverages,18615
+Mongolia,Clothes,3148
+Mongolia,Fruits,9967
+Mongolia,Household,9812
+Mongolia,Meat,4281
+Mongolia,Vegetables,2988
+Montenegro,Beverages,9585
+Montenegro,Clothes,13668
+Montenegro,Personal Care,6077
+Montenegro,Snacks,2694
+Morocco,Beverages,11890
+Morocco,Cereal,284
+Morocco,Cosmetics,8053
+Morocco,Office Supplies,8898
+Mozambique,Beverages,11874
+Mozambique,Fruits,5622
+Mozambique,Household,7922
+Mozambique,Office Supplies,4888
+Myanmar,Beverages,1343
+Myanmar,Cosmetics,4860
+Myanmar,Snacks,2317
+Myanmar,Vegetables,6844
+Namibia,Beverages,3237
+Namibia,Clothes,7884
+Namibia,Cosmetics,4713
+Namibia,Household,285
+Namibia,Vegetables,9894
+Nauru,Fruits,7934
+Nauru,Vegetables,7475
+Nepal,Cereal,2436
+Nepal,Fruits,2371
+Nepal,Meat,4821
+Nepal,Vegetables,8316
+Netherlands,Clothes,2354
+Netherlands,Cosmetics,7017
+Netherlands,Fruits,441
+Netherlands,Office Supplies,7413
+Netherlands,Snacks,5453
+New Zealand,Baby Food,3923
+New Zealand,Household,8671
+New Zealand,Meat,9980
+New Zealand,Personal Care,8775
+Nicaragua,Cereal,3274
+Nicaragua,Fruits,7973
+Nicaragua,Meat,3346
+Niger,Baby Food,21872
+Niger,Beverages,5093
+Niger,Cereal,7903
+Niger,Clothes,5447
+Niger,Meat,6014
+Niger,Office Supplies,3309
+Nigeria,Baby Food,951
+Nigeria,Beverages,9397
+Nigeria,Personal Care,1612
+Nigeria,Vegetables,8005
+North Korea,Beverages,6870
+North Korea,Cosmetics,1047
+North Korea,Household,7063
+North Korea,Meat,7435
+North Korea,Snacks,167
+Norway,Baby Food,6659
+Norway,Clothes,2296
+Norway,Cosmetics,9020
+Norway,Household,1021
+Norway,Personal Care,4192
+Oman,Baby Food,15549
+Oman,Fruits,2087
+Oman,Snacks,4679
+Pakistan,Beverages,7117
+Pakistan,Cereal,4019
+Pakistan,Clothes,5534
+Pakistan,Fruits,6569
+Pakistan,Meat,2554
+Pakistan,Vegetables,9661
+Palau,Cereal,3139
+Palau,Household,9837
+Palau,Snacks,3853
+Palau,Vegetables,832
+Panama,Baby Food,6411
+Panama,Cosmetics,16081
+Panama,Meat,9344
+Panama,Personal Care,6332
+Papua New Guinea,Cosmetics,8825
+Papua New Guinea,Household,27461
+Philippines,Baby Food,4079
+Philippines,Cereal,3601
+Philippines,Fruits,1888
+Philippines,Personal Care,8714
+Poland,Baby Food,7008
+Poland,Beverages,6797
+Poland,Household,2417
+Poland,Meat,5185
+Poland,Office Supplies,8496
+Poland,Snacks,14159
+Portugal,Cereal,3528
+Portugal,Cosmetics,4029
+Portugal,Office Supplies,19269
+Portugal,Vegetables,5511
+Qatar,Cereal,7055
+Qatar,Clothes,16501
+Qatar,Cosmetics,8390
+Qatar,Meat,5123
+Qatar,Office Supplies,1004
+Qatar,Personal Care,6925
+Republic of the Congo,Beverages,2193
+Republic of the Congo,Clothes,6826
+Republic of the Congo,Fruits,8310
+Republic of the Congo,Meat,7859
+Romania,Cereal,8985
+Romania,Clothes,12302
+Romania,Cosmetics,7839
+Romania,Fruits,6705
+Romania,Household,1050
+Romania,Office Supplies,3636
+Romania,Snacks,7379
+Russia,Baby Food,3041
+Russia,Beverages,7415
+Russia,Cosmetics,4056
+Russia,Fruits,6863
+Rwanda,Baby Food,7358
+Rwanda,Fruits,5639
+Rwanda,Meat,6474
+Rwanda,Snacks,2109
+Saint Kitts and Nevis ,Cereal,592
+Saint Kitts and Nevis ,Clothes,4995
+Saint Kitts and Nevis ,Household,2215
+Saint Kitts and Nevis ,Meat,963
+Saint Kitts and Nevis ,Office Supplies,1968
+Saint Kitts and Nevis ,Vegetables,6152
+Saint Lucia,Cosmetics,9905
+Saint Lucia,Household,186
+Saint Lucia,Meat,3245
+Saint Lucia,Personal Care,6225
+Saint Lucia,Vegetables,168
+Saint Vincent and the Grenadines,Beverages,6510
+Saint Vincent and the Grenadines,Cosmetics,1167
+Saint Vincent and the Grenadines,Fruits,8470
+Saint Vincent and the Grenadines,Office Supplies,70
+Samoa ,Baby Food,8769
+Samoa ,Clothes,699
+Samoa ,Personal Care,3797
+San Marino,Cosmetics,3226
+San Marino,Fruits,221
+Sao Tome and Principe,Cereal,9715
+Sao Tome and Principe,Clothes,5930
+Sao Tome and Principe,Cosmetics,6025
+Sao Tome and Principe,Meat,3275
+Saudi Arabia,Household,1661
+Saudi Arabia,Vegetables,19304
+Senegal,Beverages,8334
+Senegal,Cereal,4534
+Senegal,Fruits,1523
+Senegal,Household,10269
+Serbia,Beverages,4645
+Serbia,Cosmetics,8275
+Serbia,Snacks,9951
+Serbia,Vegetables,3500
+Seychelles ,Baby Food,2279
+Seychelles ,Household,13
+Seychelles ,Office Supplies,9063
+Seychelles ,Personal Care,3762
+Seychelles ,Vegetables,1175
+Sierra Leone,Cosmetics,4189
+Sierra Leone,Fruits,8250
+Sierra Leone,Office Supplies,7501
+Singapore,Beverages,4571
+Singapore,Cereal,8349
+Singapore,Cosmetics,4483
+Slovakia,Clothes,3843
+Slovakia,Cosmetics,2557
+Slovakia,Vegetables,19247
+Slovenia,Beverages,8161
+Slovenia,Cereal,8302
+Slovenia,Household,6993
+Solomon Islands,Cereal,3404
+Solomon Islands,Clothes,2873
+Solomon Islands,Personal Care,22331
+Solomon Islands,Snacks,8369
+Solomon Islands,Vegetables,6703
+Somalia,Baby Food,6338
+Somalia,Beverages,4915
+Somalia,Cereal,694
+Somalia,Clothes,10721
+Somalia,Cosmetics,1881
+Somalia,Personal Care,4738
+South Africa,Baby Food,5624
+South Africa,Cosmetics,2715
+South Africa,Fruits,4981
+South Africa,Household,8948
+South Africa,Meat,7755
+South Korea,Baby Food,1739
+South Korea,Fruits,3972
+South Korea,Office Supplies,1020
+South Korea,Snacks,5879
+South Sudan,Baby Food,6240
+South Sudan,Beverages,8743
+South Sudan,Cosmetics,7344
+South Sudan,Fruits,2880
+South Sudan,Household,4014
+South Sudan,Meat,5319
+South Sudan,Office Supplies,4174
+Spain,Baby Food,3273
+Spain,Household,4455
+Spain,Office Supplies,4396
+Spain,Snacks,376
+Spain,Vegetables,10096
+Sri Lanka,Baby Food,4312
+Sri Lanka,Cosmetics,6409
+Sri Lanka,Office Supplies,4236
+Sri Lanka,Snacks,4390
+Sudan,Cereal,7103
+Sudan,Cosmetics,4146
+Sudan,Fruits,8228
+Sudan,Household,4979
+Sudan,Office Supplies,1591
+Sudan,Vegetables,13700
+Swaziland,Baby Food,2134
+Swaziland,Cereal,7542
+Swaziland,Clothes,2488
+Swaziland,Meat,924
+Swaziland,Office Supplies,13986
+Swaziland,Personal Care,11991
+Sweden,Baby Food,13912
+Sweden,Cereal,1370
+Sweden,Cosmetics,9858
+Sweden,Personal Care,7821
+Sweden,Snacks,4245
+Sweden,Vegetables,5808
+Switzerland,Beverages,4442
+Switzerland,Cereal,1222
+Switzerland,Clothes,12670
+Switzerland,Cosmetics,3183
+Switzerland,Meat,3585
+Switzerland,Snacks,4800
+Syria,Household,7485
+Syria,Personal Care,1322
+Syria,Snacks,490
+Syria,Vegetables,1044
+Taiwan,Clothes,5921
+Taiwan,Household,1127
+Taiwan,Office Supplies,3536
+Taiwan,Personal Care,9804
+Tajikistan,Beverages,9903
+Tajikistan,Meat,499
+Tajikistan,Office Supplies,2923
+Tajikistan,Personal Care,6613
+Tajikistan,Vegetables,7894
+Tanzania,Cereal,1848
+Tanzania,Household,8630
+Tanzania,Personal Care,7921
+Thailand,Baby Food,4957
+Thailand,Household,399
+Thailand,Snacks,6639
+Thailand,Vegetables,6975
+The Bahamas,Baby Food,6610
+The Bahamas,Cereal,11563
+The Bahamas,Cosmetics,7685
+The Bahamas,Snacks,9167
+The Gambia,Vegetables,12322
+Togo,Clothes,3012
+Togo,Vegetables,9121
+Tonga,Beverages,9367
+Tonga,Fruits,7124
+Tonga,Household,8635
+Tonga,Meat,13132
+Trinidad and Tobago,Beverages,8904
+Trinidad and Tobago,Fruits,7769
+Trinidad and Tobago,Office Supplies,7982
+Trinidad and Tobago,Snacks,1978
+Trinidad and Tobago,Vegetables,3294
+Tunisia ,Beverages,114
+Tunisia ,Cereal,12524
+Tunisia ,Meat,6135
+Tunisia ,Personal Care,8390
+Tunisia ,Snacks,12979
+Turkey,Baby Food,368
+Turkey,Beverages,3693
+Turkey,Clothes,7494
+Turkey,Cosmetics,9679
+Turkey,Meat,9462
+Turkey,Snacks,5421
+Turkey,Vegetables,564
+Turkmenistan,Cosmetics,7974
+Turkmenistan,Office Supplies,352
+Tuvalu,Cereal,10563
+Tuvalu,Cosmetics,3803
+Tuvalu,Fruits,4028
+Tuvalu,Household,840
+Tuvalu,Snacks,2091
+Uganda,Beverages,8598
+Uganda,Cereal,5965
+Uganda,Clothes,1816
+Uganda,Fruits,1727
+Uganda,Personal Care,6769
+Ukraine,Clothes,5600
+Ukraine,Cosmetics,8368
+Ukraine,Household,1285
+Ukraine,Office Supplies,1431
+Ukraine,Personal Care,7092
+United Arab Emirates,Clothes,3812
+United Arab Emirates,Personal Care,5553
+United Arab Emirates,Snacks,1629
+United Arab Emirates,Vegetables,9556
+United Kingdom,Beverages,5477
+United Kingdom,Clothes,8399
+United Kingdom,Household,2278
+United Kingdom,Office Supplies,2850
+United Kingdom,Vegetables,8759
+United States of America,Baby Food,5763
+United States of America,Beverages,1815
+United States of America,Clothes,7398
+United States of America,Meat,6654
+United States of America,Office Supplies,9247
+United States of America,Personal Care,8963
+Uzbekistan,Cereal,4452
+Uzbekistan,Clothes,1718
+Uzbekistan,Meat,8313
+Uzbekistan,Office Supplies,9535
+Uzbekistan,Personal Care,9942
+Vanuatu,Beverages,664
+Vanuatu,Cereal,9289
+Vanuatu,Cosmetics,9515
+Vanuatu,Meat,15630
+Vanuatu,Office Supplies,812
+Vanuatu,Snacks,8516
+Vanuatu,Vegetables,9654
+Vatican City,Beverages,7946
+Vatican City,Clothes,2256
+Vatican City,Snacks,4044
+Vatican City,Vegetables,2173
+Vietnam,Baby Food,4594
+Vietnam,Cosmetics,6384
+Vietnam,Office Supplies,8406
+Vietnam,Personal Care,321
+Vietnam,Snacks,7665
+Vietnam,Vegetables,6714
+Yemen,Baby Food,5668
+Yemen,Cereal,12220
+Yemen,Cosmetics,5940
+Yemen,Office Supplies,8071
+Zambia,Baby Food,7526
+Zambia,Fruits,3524
+Zimbabwe,Baby Food,3395
+Zimbabwe,Beverages,851
+Zimbabwe,Fruits,23367
+Zimbabwe,Meat,10144
+Zimbabwe,Personal Care,6684
+Zimbabwe,Vegetables,6348
