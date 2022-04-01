@@ -1,0 +1,49 @@
+> O que é Gestão de Projeto
+    definir conhecimento, habilidades e recursos necessários, incluindo custo e tempo, para realização
+    de um projeto. Importante para manter o projeto sob controle e manter a direção do projeto e fazer
+    ajustes de percurso.
+
+> Benefícios:
+    Otimização do tempo
+    Redução de custo
+    Controle de riscos
+    Impactos nos resultados do projeto
+
+> Fases: planejamento > definição do problema e case de negócio > desenvolvimento
+    (extração de dados, programação (qual linguagem), sumarização, visualização, modelagem, 
+    integração com outras áreas exexmplo BA)
+
+> Entregáveis: modelos, produtos, serviços, conhecimento, valor, outros...
+
+> Hoje os dados apresentam:
+    Muito volume
+    Alta velocidade de transmissão
+    Alta variedade (estruturado, não estruturado, texto, multimídia)
+    Contestação da Veracidade (inconsistência, latência, dados faltantes)
+    Necessidade de entregar valor
+
+> Dificuldades:
+    tamanho do banco de dados
+    dados contaminados
+    dados que não são independentes e identicamente distribuido (iid)
+    não estacionariedade
+    nr variáveis >> nr de observações
+    variavéis não númericas
+
+> Antes de iniciar o projeto:
+    Quais os requisitos / objetivos do projeto (qual o business case em questão)
+    O que pretende ser entregue como valor ao projeto
+    Estipular critérios de sucesso (entregue no tempo, custo e escopo definido inicialmente)
+    Critérios calores de sucesso, exemplos:
+        - redução de custo operacional,
+        - redução de inadimplência,
+        - redução de fraude,
+        - redução de atriction,
+        - aumento de vendas
+        - aumento de cross-selling,
+        - aumento de up selling,
+        - aumento de usuários satisfeitos,
+        - aumento de lucro,
+        - aumento de base de clientes
+
+
