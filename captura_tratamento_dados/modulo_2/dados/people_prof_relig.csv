@@ -1,0 +1,101 @@
+Name,Sex,Year of Birth,Country of Birth,Religion,City,Profession,Age,Experience,Salary,XP_great_10,XP_lesseq_10
+Desiree Dardar,F,1995,USA,Christian,New Orleans,Nurse,26,1,2580,N,Y
+Lora Lemoine,F,1989,England,Christian,Birmingham,Nurse,32,1,2308,N,Y
+Willene Wolfgram,F,1997,USA,Christian,New Orleans,Nurse,24,1,5196,N,Y
+Herta Hatley,F,1988,USA,Christian,New Orleans,Nurse,33,1,4337,N,Y
+Oleta Ouk,F,1991,Spain,Christian,Valencia,Nurse,30,1,4197,N,Y
+Esther Morgan,F,1991,Australia,Christian,Brisbane,Nurse,30,1,1543,N,Y
+Gabriel Paiva,M,1991,Portugal,Christian,Lisbon,Nurse,30,1,2303,N,Y
+Pablo Alvarez,M,1991,Mexico,Christian,Acapulco,Nurse,30,1,2086,N,Y
+Ramon West,M,1994,Portugal,Christian,Lisbon,Nurse,27,1,3504,N,Y
+Merle Clark,M,1995,Mexico,Christian,Acapulco,Nurse,26,1,780,N,Y
+Marla Olson,F,1994,Peru,Christian,Arequipa,Nurse,27,1,3766,N,Y
+Jameson Mendoza,M,1997,Mexico,Christian,Acapulco,Nurse,24,1,5081,N,Y
+Ivo Izidro,M,1988,Mexico,Christian,Acapulco,Nurse,33,2,2709,N,Y
+Brad Ferguson,M,1985,USA,Christian,New Orleans,Nurse,36,2,2197,N,Y
+Susie Hodges,F,1997,Brazil,Christian,São Paulo,Nurse,24,2,2506,N,Y
+Alton Thornton,M,1994,Canada,Christian,Vancouver,Nurse,27,2,5121,N,Y
+Jim Foster,M,1998,USA,Christian,New Orleans,Nurse,23,3,3042,N,Y
+Sienna Contreras,F,1984,USA,Christian,New Orleans,Nurse,37,3,4931,N,Y
+Lorraine Richards,F,1992,Brazil,Christian,São Paulo,Nurse,29,4,3683,N,Y
+Izaiah Duarte,M,1997,Brazil,Christian,São Paulo,Nurse,24,4,3833,N,Y
+Marlon Moore,M,1984,Australia,Christian,Brisbane,Nurse,37,5,5922,N,Y
+Joelle Jaffee,F,1983,Peru,Christian,Arequipa,Nurse,38,6,3018,N,Y
+Vera Reid,F,1991,Australia,Christian,Brisbane,Nurse,30,6,6056,N,Y
+Maique Santos,M,1994,Brazil,Christian,São Paulo,Nurse,27,6,3291,N,Y
+Lillian Labree,F,1982,Spain,Christian,Valencia,Nurse,39,7,3240,N,Y
+Shelley Mendoza,F,1978,Scotland,Christian,Edinburgh,Nurse,43,7,5564,N,Y
+Kayden Todd,M,1986,Australia,Christian,Brisbane,Nurse,35,7,624,N,Y
+Rupert Rollison,M,1986,England,Christian,Birmingham,Nurse,35,8,2878,N,Y
+Marcos Magro,M,1989,Brazil,Christian,São Paulo,Nurse,32,8,3457,N,Y
+Bernard Summers,M,1989,USA,Christian,New Orleans,Nurse,32,8,351,N,Y
+Marshall Vargas,M,1990,Scotland,Christian,Edinburgh,Nurse,31,8,6127,N,Y
+Monica Rice,F,1990,Spain,Christian,Valencia,Nurse,31,8,427,N,Y
+Marcel Olsen,M,1984,Canada,Christian,Vancouver,Nurse,37,8,6490,N,Y
+Billie Duncan,F,1976,Scotland,Christian,Edinburgh,Nurse,45,9,2391,N,Y
+David Pittman,M,1987,Australia,Christian,Brisbane,Nurse,34,9,2242,N,Y
+John Bradley,M,1984,Canada,Christian,Vancouver,Nurse,37,9,4857,N,Y
+Alexandre Ronaldo,M,1980,Portugal,Christian,Lisbon,Nurse,41,10,1605,N,Y
+Erica Hudson,F,1980,Brazil,Christian,São Paulo,Nurse,41,10,5293,N,Y
+Mayra Mcnish,F,1987,Scotland,Christian,Edinburgh,Nurse,34,11,4818,Y,N
+Eloi Fuentes,F,1978,Spain,Christian,Valencia,Nurse,43,11,6747,Y,N
+Jada Judon,M,1974,Australia,Christian,Brisbane,Nurse,47,12,3600,Y,N
+Archie Hogan,M,1976,Scotland,Christian,Edinburgh,Nurse,45,12,404,Y,N
+Elmer Walters,M,1985,Brazil,Christian,São Paulo,Nurse,36,14,4292,Y,N
+Elisa Cain,F,1984,Portugal,Christian,Lisbon,Nurse,37,14,1481,Y,N
+Janet Hunter,F,1974,USA,Christian,New Orleans,Nurse,47,14,2800,Y,N
+Carlos Cobre,M,1983,Brazil,Christian,São Paulo,Nurse,38,15,6300,Y,N
+Carlos Cobre,M,1983,Brazil,Christian,São Paulo,Nurse,38,15,6300,Y,N
+Mariann Mulero,F,1973,USA,Christian,New Orleans,Nurse,48,16,3668,Y,N
+Ricardo Rima,M,1977,Peru,Christian,Arequipa,Nurse,44,16,6677,Y,N
+Wendell Freeman,M,1978,Mexico,Christian,Acapulco,Nurse,43,16,2972,Y,N
+Ricardo Rima,M,1977,Peru,Christian,Arequipa,Nurse,44,16,6677,Y,N
+Amelia Caldwell,F,1977,Scotland,Christian,Edinburgh,Nurse,44,17,5333,Y,N
+Andre Logan,M,1981,USA,Christian,New Orleans,Nurse,40,17,847,Y,N
+Hailee Ochoa,F,1977,Brazil,Christian,São Paulo,Nurse,44,17,2613,Y,N
+Ezequiel Anthony,M,1985,USA,Christian,New Orleans,Nurse,36,17,5943,Y,N
+Petra Cruz,F,1976,Mexico,Christian,Acapulco,Nurse,45,17,602,Y,N
+Jeannette Lowe,F,1972,Spain,Christian,Valencia,Nurse,49,18,2296,Y,N
+Finley Rocha,M,1969,USA,Christian,New Orleans,Nurse,52,18,607,Y,N
+Margaret Keith,F,1970,USA,Christian,New Orleans,Nurse,51,18,2917,Y,N
+Albert Keller,M,1979,USA,Christian,New Orleans,Nurse,42,19,1297,Y,N
+Casey Barnes,M,1983,Scotland,Christian,Edinburgh,Nurse,38,19,8419,Y,N
+Zachary Yates,M,1975,Scotland,Christian,Edinburgh,Nurse,46,19,8195,Y,N
+Ruby Singleton,F,1982,USA,Christian,New Orleans,Nurse,39,19,5269,Y,N
+Karina Belarmino,F,1974,Brazil,Christian,São Paulo,Nurse,47,19,7450,Y,N
+Kathey Kleiman,F,1973,USA,Christian,New Orleans,Nurse,48,20,6905,Y,N
+Signe Seymore,F,1979,England,Christian,Birmingham,Nurse,42,20,2263,Y,N
+Eleanore Espitia,F,1981,Spain,Christian,Valencia,Nurse,40,20,2814,Y,N
+Eugenio Ewell,M,1968,USA,Christian,New Orleans,Nurse,53,21,4140,Y,N
+Elias Elmo,M,1970,Portugal,Christian,Lisbon,Nurse,51,21,6709,Y,N
+Magali Mattos,F,1976,Brazil,Christian,São Paulo,Nurse,45,22,9086,Y,N
+Douglas Damario,M,1965,USA,Christian,New Orleans,Nurse,56,22,3283,Y,N
+Jane Fernandez,F,1971,Spain,Christian,Valencia,Nurse,50,23,6486,Y,N
+Payten Buck,F,1962,Mexico,Christian,Acapulco,Nurse,59,23,7552,Y,N
+Apolonia Abler,F,1967,Australia,Christian,Brisbane,Nurse,54,23,5496,Y,N
+Kathy Kerrigan,F,1973,USA,Christian,New Orleans,Nurse,48,24,4445,Y,N
+Michele Fletcher,F,1965,Scotland,Christian,Edinburgh,Nurse,56,24,7599,Y,N
+Hubert Chapman,M,1969,Scotland,Christian,Edinburgh,Nurse,52,24,3283,Y,N
+Raelynn Murphy,F,1962,USA,Christian,New Orleans,Nurse,59,24,3672,Y,N
+Bennie Reeves,F,1968,Spain,Christian,Valencia,Nurse,53,25,7626,Y,N
+Paityn Hale,M,1963,Peru,Christian,Arequipa,Nurse,58,25,7470,Y,N
+Kraig Kriner,M,1972,Scotland,Christian,Edinburgh,Nurse,49,26,4746,Y,N
+Valeri Vanegas,F,1966,Spain,Christian,Valencia,Nurse,55,26,7372,Y,N
+Virgil Griffin,M,1966,Canada,Christian,Vancouver,Nurse,55,26,4152,Y,N
+Savannah Ball,F,1974,USA,Christian,New Orleans,Nurse,47,26,7952,Y,N
+Donnie Adkins,M,1962,Spain,Christian,Valencia,Nurse,59,27,3247,Y,N
+Miriam Riley,F,1970,Portugal,Christian,Lisbon,Nurse,51,28,5544,Y,N
+Terri Wilson,F,1962,Canada,Christian,Vancouver,Nurse,59,28,4811,Y,N
+Leanne Lowy,F,1969,England,Christian,Birmingham,Nurse,52,30,4994,Y,N
+Stuart Mathis,M,1966,Peru,Christian,Arequipa,Nurse,55,32,7386,Y,N
+Vivian Arnold,F,1960,Brazil,Christian,São Paulo,Nurse,61,33,5525,Y,N
+Diego Colque,M,1958,Peru,Christian,Arequipa,Nurse,63,33,5725,Y,N
+Drew Wade,F,1962,Spain,Christian,Valencia,Nurse,59,34,5326,Y,N
+Apolonia Abler,F,1967,Canada,Christian,Vancouver,Nurse,54,35,7141,Y,N
+Apolonia Abler,F,1967,Canada,Christian,Vancouver,Nurse,54,35,7141,Y,N
+Apolonia Abler,F,1967,Canada,Christian,Vancouver,Nurse,54,35,7141,Y,N
+Ariel Almada,F,1965,Portugal,Christian,Lisbon,Nurse,56,36,9722,Y,N
+Lindsey Lever,M,1965,USA,Christian,New Orleans,Nurse,56,37,7896,Y,N
+Norah Carey,F,1961,Scotland,Christian,Edinburgh,Nurse,60,38,1785,Y,N
+Vinicius Vitorio,M,1959,Brazil,Christian,São Paulo,Nurse,62,39,6830,Y,N
+Maia Banks,M,1957,USA,Christian,New Orleans,Nurse,64,42,4214,Y,N
