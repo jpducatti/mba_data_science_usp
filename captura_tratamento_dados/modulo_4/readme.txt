@@ -29,3 +29,5 @@
         - Reduzir dimensionalidade ou seja numeros de variaveis dos dados
         - Investigar estruturas multivariadas: dependência / correlação
         - Identificar relações de causalidade e / ou associação              
+    - Cuidados:
+        - sensível a outliers
