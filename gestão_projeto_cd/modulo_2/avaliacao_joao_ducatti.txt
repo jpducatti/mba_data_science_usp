@@ -1,0 +1,13 @@
+AVALIACAO: Em até 10 linhas, descreva os principais pontos abordados e discutidos na disciplina.
+Aluno: João Pedro Ducatti
+
+-------------------------
+
+Dando continuidade a disciplina de Gestão de Projetos em Ciência de Dados, o módulo 2 focou em tratar sobre incertezas e riscos que um projeto de ciência de dados (PCD) comumente apresenta, como lidar com essas questões
+através do uso de técnicas de gestão ágil (foco do módulo em KANBAN e SCRUM) e as sinergias que ambas apresentam quando aplicadas simultaneamente. No módulo anterior, tratou-se do ciclo de vida de um PCD e a metodologia CRISP,
+onde umas das etapas consiste em entender e preparar os dados. Essa etapa é muito importante porque um dos riscos em um PCD é a qualidade dos dados, sua disponibilização para uso e o volume de dados para usar no projeto. Garantir
+que os dados são suficientes, apresentem os atributos necessários para responder as perguntas de negócio que o PCD contém, sejam confiáveis e precisos é importante para mitigar riscos e incertezas no PCD. Riscos relativos à
+recursos humanos também é comumente encontrado, pois, a depender do projeto, há necessidade de profissionais qualificados e maior necessidade  de orçamento de pessoas que não foram bem dimensionados no PCD. Outras incertezas e
+riscos comumente encontrados são relacionado a tecnologias, comprometimento, tempo de execução e segurança da informação. Para mitigar os riscos e as incertezas, um PCD precisa ter uma gestão de tempo,
+recursos financeiros e humanos e duas técnicas (metodologias) são empregadas para garantir a execução do projeto: KANBAN e SCRUM. O KANBAN apresenta uma estrutura mais visual e fluida para garantir o andamento do projeto enquanto o SCRUM foca na interação do trabalho dos membros da equipe. Não são
+técnicas excludente e combinadas são importantes para o trabalho fluido da equipe enquanto executa um complexo projeto de PCD.
